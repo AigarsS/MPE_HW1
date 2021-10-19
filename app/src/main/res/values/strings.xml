@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">HelloWorld</string>
     <string name="app_group_members">
-        This is the first application from Group 1:
-            \n <li>Aigars Strods</li>
-            \n <li>Raivo Lapiņs</li>
-            \n <li>Guntis Graudiņš</li>
+        <li> This is the first application from Group 1:</li>
+            \n \t\t \u25E6 Aigars Strods
+            \n \t\t \u25E6 Raivo Lapiņs
+            \n \t\t \u25E6 Guntis Graudiņš
+        \n <li> And the application was developed by Aigars Strods</li>
     </string>
 </resources>
